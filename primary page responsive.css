@@ -19,7 +19,7 @@
 	}
 	/* hidden section 2 by default */
 	.section-2 {
-		visibility: hidden;
+		/* visibility: hidden; */
 		opacity: 0;
 		position: absolute;
 		width: 300px;
@@ -92,7 +92,7 @@
 	/* increased theme content size */
 	.theme-content {
 		width: 12vw;
-		height: 12vw;
+		/* height: 12vw; */
 	}
 	.theme-content p {
 		font-size: 3vw;

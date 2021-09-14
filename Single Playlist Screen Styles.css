@@ -60,6 +60,10 @@ p {
     transform: rotate(360deg);
   }
 }
+
+img {
+  object-fit: cover;
+}
 /* website logo image */
 .website-logo img {
   height: 50px;
